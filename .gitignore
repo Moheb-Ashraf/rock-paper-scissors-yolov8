@@ -1,0 +1,16 @@
+# Training outputs & weights
+runs/
+*.pt
+
+# Datasets (downloaded from Roboflow)
+rock-paper-scissors-*/
+datasets/
+
+# Secrets
+.env
+*.key
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
