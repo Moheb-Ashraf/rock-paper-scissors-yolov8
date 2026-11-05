@@ -2,7 +2,6 @@
 
 Object detection model that recognizes **Rock**, **Paper** and **Scissors** hand gestures, built by fine-tuning a pretrained **YOLOv8n** (Ultralytics) on a public Roboflow dataset. The whole pipeline lives in one Google Colab notebook.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR_USERNAME>/rock-paper-scissors-yolov8/blob/main/yolo.ipynb)
 
 ## What the notebook does
 
